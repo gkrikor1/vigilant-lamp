@@ -9,4 +9,4 @@ Adding another line to test merge commit
 I'm writing some more stuff under this header
 
 # third header
-A line I wrote on my local computer, which is a macbook
+A line I wrote on my local computer and in the browser
