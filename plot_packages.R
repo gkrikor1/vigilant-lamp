@@ -17,3 +17,5 @@ freqtable %>%
 # Most packages built in R 4.2.0
 
 # insightful comment
+
+# blah blah
