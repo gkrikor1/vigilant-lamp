@@ -12,3 +12,6 @@ freqtable %>%
   ggplot(
     aes(x = Built, y = packagecount)
   ) + geom_bar(stat = "identity")
+
+
+# Most packages built in R 4.2.0
