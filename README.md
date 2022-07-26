@@ -6,3 +6,4 @@ I'm updating the readme from here to purposefully create an issue when I try to 
 Adding another line to test merge commit
 
 # another header
+I'm writing some more stuff under this header
